@@ -11,12 +11,12 @@ Due to GitHub's file size restrictions, the data used has been uploaded to Baidu
 
 unzip dataset
 
-dataset
+datasets inculded: 
  - taobao
  - tmall
  - beibei
  - qkv 
-## 3. run 
+## 3. run with data 
 
 you can run Tmall dataset with:
 
